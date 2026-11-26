@@ -13,7 +13,7 @@ namespace MyTestRepo.Controllers
             _logger = logger;
         }
 
-        public IActionResult Index()
+        public IActionResult Iddddndex()
         {
             return View();
         }
