@@ -18,7 +18,7 @@ namespace MyTestRepo.Controllers
             return View();
         }
 
-        public IActionResult Privaaaaaaacy()
+        public IActionResult Privacy()
         {
             return View();
         }
